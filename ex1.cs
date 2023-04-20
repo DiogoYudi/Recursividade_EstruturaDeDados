@@ -2,7 +2,7 @@
 //	MENU PRINCIPAL
 //  1 – Funções sem vetor
 //	2 – Funções com vetor
-//	Digite a opção desejada: _
+//	Digite a opção desejada:
 
 //  Se o usuário escolher a opção 1, solicite um número inteiro inicial e um número inteiro final. Em seguida apresente um segundo menu com as seguintes opções:
 //  MENU SECUNDÁRIO
